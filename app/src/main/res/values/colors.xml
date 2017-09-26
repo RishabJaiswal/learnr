@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--app palette-->
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#4f5ca9</color>
+    <color name="colorAccentLight">#838cc3</color>
+
+    <!--text colors-->
+    <color name="text_secondary">#8d8b8b</color>
+    <color name="text_primary">#424242</color>
+</resources>

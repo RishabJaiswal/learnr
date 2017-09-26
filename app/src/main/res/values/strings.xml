@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">LearnR</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email_hint">email</string>
+    <string name="password_hint">password</string>
+    <string name="title_lessons">Lessons</string>
+
+    <!--sample data-->
+    <string name="sample_name">Name</string>
+    <string name="sample_username">…</string>
+    <string name="sample_phone_number">…</string>
+    <string name="sample_email">…</string>
+    <string name="sample_lesson_title">Lesson 1: learn to play piano</string>
+    <string name="sample_status">complete</string>
+    <string name="check_internet">Please check your internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="login_failed">Login failed. Please try again</string>
+
+    <!--preferences key-->
+    <string name="pref_uid" translatable="false">uid</string>
+    <string name="pref_access_token" translatable="false">accessToken</string>
+    <string name="pref_refresh_token" translatable="false">refreshToken</string>
+    <string name="pref_expires_in" translatable="false">expiresIn</string>
+    <string name="pref_created_at" translatable="false">createdAt</string>
+    <string name="pref_username" translatable="false">username</string>
+    <string name="pref_email" translatable="false">email</string>
+    <string name="pref_name" translatable="false">name</string>
+    <string name="pref_company_id" translatable="false">companyID</string>
+
+    <!--realm field value pairs-->
+    <string name="field_user_status">status</string>
+    <string name="field_status_value_completed">completed</string>
+
+    <!--menu items strings-->
+    <string name="all">All</string>
+    <string name="completed">Completed</string>
+    <string name="pending">Pending</string>
+
+    <!--error prompts-->
+    <string name="data_not_received">Unable to get data</string>
+
+</resources>

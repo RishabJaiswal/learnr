@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--font dimensions-->
+    <dimen name="font_caption">12sp</dimen>
+    <dimen name="font_body_button">14sp</dimen>
+    <dimen name="font_subheading">16sp</dimen>
+    <dimen name="font_title">20sp</dimen>
+    <dimen name="font_heading">24sp</dimen>
+    <dimen name="user_details_layout_margin">24dp</dimen>
+
+</resources>
